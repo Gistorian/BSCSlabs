@@ -1,0 +1,13 @@
+Legends: UP (unsure of potential), 
+
+mkdir - Creates folder 
+    Ex.  "mkdir Nestor", "mkdir Notes"
+
+Echo- Creates files (UP)
+    Ex. "echo > index.html", "echo > Style.css"
+
+cd - Navigates through the files (UP)
+    Ex. "cd .." to get out
+        "cd BSCSlabs"/ "cd .\BSCSlabs\" to enter BSCSlabs
+dir - Lists all files and folders in your current directory.
+    Ex. "dir"
